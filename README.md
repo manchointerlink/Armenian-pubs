@@ -20,7 +20,7 @@ Emphasis, aka italics, with *timestamp*
 | Fav_Pub     | Income         | WTS     |
 | ------------|:-------------: | -----:  |
 | Liberty     |  100000.0      |  10000.0|
-| Tom Collins |  800000.0       |  5000.0 |
+| Tom Collins |  800000.0      |  5000.0 |
 | Station     |  100000.0      |   2000.0|
 
 
@@ -29,3 +29,4 @@ Emphasis, aka italics, with *timestamp*
 
 #### reference
 [^1]: syrvey by Erik Hambardzumyan.
+
